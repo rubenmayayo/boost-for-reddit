@@ -1,6 +1,18 @@
-# Boost for Reddit
+<p align="center">
+  <a href="https://boostforreddit.com"><img src=".github/assets/boost-icon.png" width="128" height="128" alt="Boost for Reddit icon"></a>
+</p>
 
-Boost is an Android client for Reddit by Ruben Mayayo.
+<h1 align="center">Boost for Reddit</h1>
+
+<p align="center">
+  An Android client for Reddit by Ruben Mayayo
+  <br><br>
+  <a href="https://boostforreddit.com">Website</a>
+  ·
+  <a href="https://github.com/rubenmayayo/boost-for-reddit/releases/latest">Releases</a>
+  ·
+  <a href="https://www.reddit.com/r/BoostForReddit">r/BoostForReddit</a>
+</p>
 
 This repository is the only place where Boost is published. Download signed APKs from [**Releases**](https://github.com/rubenmayayo/boost-for-reddit/releases/latest). The app's source code is not public: the "Source code" archives attached to each release only contain this README.
 
