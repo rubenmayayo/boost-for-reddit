@@ -28,7 +28,7 @@ The APKs here use the same signing key as the Google Play version. Install the l
 
 ## Update
 
-- **In the app:** since version 1.14.0, Boost checks this page for new releases once a day and shows what's new. Tap **Download** to get the APK, then install it over the current version. You can turn this off in Settings > About > Check for updates.
+- **In the app:** Boost checks this page for new releases once a day and shows what's new. Tap **Download** to get the APK, then install it over the current version. You can turn this off in Settings > About > Check for updates.
 - **Obtainium:** add `https://github.com/rubenmayayo/boost-for-reddit` to [Obtainium](https://github.com/ImranR98/Obtainium) to get notified of new releases.
 - **By hand:** download the new APK and install it over the current version.
 
@@ -69,6 +69,6 @@ Descarga el APK firmado desde [Releases](https://github.com/rubenmayayo/boost-fo
 
 Boost ya no está en Google Play, y la versión antigua de Play dejó de funcionar porque Reddit bloqueó su acceso a la API. Si la tienes instalada, instala el APK de aquí encima, **sin desinstalar**: lleva la misma firma y conservarás tus ajustes, cuentas guardadas y suscripciones locales. Después configura tu client ID y vuelve a iniciar sesión.
 
-Desde la versión 1.14.0, la app comprueba una vez al día si hay una versión nueva aquí y te avisa (puedes desactivarlo en Ajustes > Acerca de > Buscar actualizaciones). También puedes añadir este repositorio a Obtainium.
+La app comprueba una vez al día si hay una versión nueva aquí y te avisa (puedes desactivarlo en Ajustes > Acerca de > Buscar actualizaciones). También puedes añadir este repositorio a Obtainium.
 
 Boost es gratis y no tiene anuncios. Si te resulta útil, puedes invitarme a un café en [Ko-fi](https://ko-fi.com/mayayo) o [PayPal](https://paypal.me/mayayo).
