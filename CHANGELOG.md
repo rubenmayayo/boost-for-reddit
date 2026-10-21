@@ -2,7 +2,7 @@
 
 ## Version 1.14.0
 
-- **Boost now requires your own Reddit API client ID.** Follow the step-by-step guide on first launch, then **log in again** with your accounts
+- **Boost now requires your own Reddit API client ID.** [Here's how to get one](REDDIT_API_SETUP.md). Enter it on first launch, then **log in again** with your accounts
 - New Material 3 Expressive look with refreshed theme colors
 - Edge-to-edge screens on Android 15 and newer
 - Image and GIF previews in comments (Settings-Comments)
