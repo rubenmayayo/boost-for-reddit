@@ -24,19 +24,19 @@ If you find it useful, you can buy me a coffee:
 ## Requirements
 
 - Android 7.0 or newer
-- A Reddit client ID. Since version 1.14.0, Boost needs your own Reddit API client ID. The app shows a step-by-step guide the first time you open it.
+- A Reddit client ID. Since version 1.14.0, Boost needs your own Reddit API client ID. See [how to get one](REDDIT_API_SETUP.md).
 
 ## Install
 
 1. Open the [latest release](https://github.com/rubenmayayo/boost-for-reddit/releases/latest) on your phone and download `boost-for-reddit-X.Y.Z.apk` from **Assets**.
 2. Open the downloaded file. If Android blocks it, allow **Install unknown apps** for your browser or file manager, then go back and tap **Install**.
-3. Open Boost, follow the Reddit setup guide, and log in.
+3. Open Boost, enter your Reddit API values ([how to get them](REDDIT_API_SETUP.md)), and log in.
 
 ## Coming from Google Play
 
 Boost is no longer available on Google Play, and the old Play version stopped working because Reddit blocked its API access.
 
-The APKs here use the same signing key as the Google Play version. Install the latest one over your current Boost, **without uninstalling**, to keep your settings, saved accounts and local subscriptions. Then open Boost, follow the guide to set up your Reddit client ID, and log in again.
+The APKs here use the same signing key as the Google Play version. Install the latest one over your current Boost, **without uninstalling**, to keep your settings, saved accounts and local subscriptions. Then open Boost, [set up your Reddit client ID](REDDIT_API_SETUP.md), and log in again.
 
 ## Update
 
@@ -77,7 +77,7 @@ See the [release notes](https://github.com/rubenmayayo/boost-for-reddit/releases
 
 ## En español
 
-Descarga el APK firmado desde [Releases](https://github.com/rubenmayayo/boost-for-reddit/releases/latest), ábrelo y permite **Instalar apps desconocidas** si Android te lo pide. Necesitas Android 7.0 o superior. Desde la versión 1.14.0 también necesitas tu propio client ID de la API de Reddit; la app te guía al abrirla por primera vez.
+Descarga el APK firmado desde [Releases](https://github.com/rubenmayayo/boost-for-reddit/releases/latest), ábrelo y permite **Instalar apps desconocidas** si Android te lo pide. Necesitas Android 7.0 o superior. Desde la versión 1.14.0 también necesitas tu propio client ID de la API de Reddit; [aquí se explica cómo conseguirlo](REDDIT_API_SETUP.md) (en inglés).
 
 Boost ya no está en Google Play, y la versión antigua de Play dejó de funcionar porque Reddit bloqueó su acceso a la API. Si la tienes instalada, instala el APK de aquí encima, **sin desinstalar**: lleva la misma firma y conservarás tus ajustes, cuentas guardadas y suscripciones locales. Después configura tu client ID y vuelve a iniciar sesión.
 
